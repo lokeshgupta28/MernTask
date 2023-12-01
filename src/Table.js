@@ -25,6 +25,14 @@ const search =async(e)=>{
     setItem(res)
 }
 console.log("32",item)
+
+function test(){
+    console.log('test')
+}
+test();
+
+
+
     return (
         <>
             <div>
